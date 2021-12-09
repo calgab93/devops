@@ -16,4 +16,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 
 
 ## Running the app using docker - version 2
-docker run --name choose-ur-name -p 3000:3000 -d calgab93/testctr:buss-app
+Paste this in a system with docker on it:
+    docker run --name choose-ur-name -p 3000:3000 -d calgab93/testctr:buss-app
