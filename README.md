@@ -1,4 +1,4 @@
-# devOps test - bus_schedule
+# devOps_test - bus_schedule
 
 This is a simple bus schedule app written using nodejs.
 
